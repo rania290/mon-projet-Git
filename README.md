@@ -456,7 +456,7 @@ hotfix/urgent-bug → main + develop
 
 ---
 
-## 🆘 Résolution de problèmes
+##  Résolution de problèmes
 
 ### Problème : Conflit lors d'un merge
 
@@ -507,6 +507,5 @@ git checkout HEAD -- fichier-supprime.txt
 
 ---
 
-⭐ **N'oubliez pas de star ce repo si vous l'avez trouvé utile !**
 
 </div>
