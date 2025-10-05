@@ -490,7 +490,7 @@ git checkout HEAD -- fichier-supprime.txt
 
 ---
 
-## 📖 Ressources
+##  Ressources
 
 - [Documentation officielle Git](https://git-scm.com/doc)
 - [GitHub Guides](https://guides.github.com/)
@@ -501,9 +501,7 @@ git checkout HEAD -- fichier-supprime.txt
 
 <div align="center">
 
-**📧 Contact** : Dr. Salah Gontara  
-**📅 Année** : 2025-26  
-**🎓 Cours** : DevOps
+
 
 ---
 
